@@ -1,0 +1,113 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD DirectoryObserver
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD DirectoryObserver
+    internal_properties : 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
+    configuration_id : 6162354306426622243
+    type : 1
+    generation_name : WD DirectoryObserver.exe
+    version :
+     version : VI180046G
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\Eye.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAADvgYcwoTMz0m08/RxSMVG3++ZJOOzwfxuUGk2My9lX6On3sAZIYZZhifgH/Dk8TeQ3UFl+BYdm5w==
+ elements :
+  identifier : 0x4af449f20011c708
+  elements :
+   -
+     name : TEST_WIN_MAIN
+     identifier : 0x40c9994f0054df2e
+     internal_properties : CAAAAAgAAABaMAIGpeLK1ejgR6y1ZWR+2Itnjzw5xrJ2YTJvVLxQ4NTKU/L0DtIRuWVfWdkX49U/xw==
+     physical_name : .\TEST_WIN_MAIN.wxt
+     type : 17
+   -
+     name : WIN_MAIN
+     identifier : 0x471a01d600017671
+     internal_properties : CAAAAAgAAAC1kZ2BPhsTzJHZDPVuLwsxc2bCijYNZE+ixjjJ3TrY0DyAg8I7x4lG4l5YoGCQaFigoA==
+     physical_name : .\WIN_MAIN.wdw
+     type : 2
+   -
+     name : Global procedures of WD DirectoryObserver
+     identifier : 0x471a01bb00000ab7
+     internal_properties : CAAAAAgAAACb90NHZCGJkquvBuN0Jhm7mdY8TIbV/HuK/LkAun0RJ5kLELU1zZNQ+CSeGppWIpZ+hg==
+     physical_name : .\Global procedures of WD DirectoryObserver.wdg
+     type : 7
+  other_elements :
+   -
+     physical_name : .\add.png
+   -
+     physical_name : .\modif.png
+   -
+     physical_name : .\rename.png
+   -
+     physical_name : .\del.png
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WDBackup.sty
+ wb_style_sheet : .\WDBackup.wws
+ code_elements :
+  internal_properties : CAAAAAgAAADvaJcmjukb+Yux4KHFqkOfB5n9WMIXp5GO76D43lLSrPDsdX8sknh4Xk//3ocuQhRzBBZDk8Ftc3vAwOQ2Ohn84KUeOKTdu2VdMpj+9P5gb4+2l9VCRM5f
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD DirectoryObserver
+     identifier : 0x4af449f30017c766
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WDSauvegarde
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

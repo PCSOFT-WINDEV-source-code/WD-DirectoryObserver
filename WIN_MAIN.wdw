@@ -1,0 +1,389 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_MAIN
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_MAIN
+ identifier : 0x21222d7d14eabb5b
+ internal_properties : CAAAAAgAAAAEIGjl/bSw8VL3tD2NpyzQeGD1B8RfRTzkzGTrPESkvmqlPkl0zRp6J/kcSrpvCko4AROH61/smA16prbmFScUPvcaXwwpcb70gpV74DpivyQemadPJvm8tcpsxzxk8I7+ST3cZt5UHa05QEZEAe86QddRW/3HUz98cgq8MjhthzrBlyi9rTTtDF7h1PNXgtar0zvVRJJonmP275QihFBLfquiXEh9WOi+aiD53nc2TAjGk2b2Ts109QznBGX/ZgracmE8/t47lZfJ+XaU7BkC/LfE63hCfC51OzrHeT80xf+vziUaIZ4AzxQ1ogyFFbrBzoGfsEuoRiuNB+fOav0CVyoAutyQm/PSu+LkC4bnFKtpkSDBJxpDubgnlCUtxfaGiLgmK4Ums6ME6m1AvH8TiWbdvWWvKVrVrnTMWSppcRCWarJEjrE/MU2j1H2jmTvN/YRgv8hRSqJMhUesjNaKqREdPeX+2RAgRt/v8zB47qW1gR72+nSajl/Nf9W2CpzQGLsKgJoSal8oJNhpIp4K41+qiHwf6niecpzuL+rYcMsuK9kjnkzJP/9EQuX5LUircjbmX22SAaMU6Oash47R5pLm7J5Cfp4k2mNDD4OHsDKiIlbE4JCB5SsFY16+dHjI66MLF26GdEZmfuwvFmCYCzj62lLRnD5kvn13mogG7uIHPHyL2M8YolWzALiLSSg3S2HRORuUBBnLVynWhhI7V6PxJuzaGFLGswH82iKba11GpB+dW+g1H4nFZkrARMkhfgycJEbmNWUpwKsrEfi4lwNHExENiEDrT/8VJL5VaxEV
+ properties :
+  width : 702
+  height : 506
+  widthClient : 700
+  heightClient : 474
+ controls :
+  -
+    name : LIST_FILES
+    identifier : 0x21222d7d14ebbb5b
+    internal_properties : CAAAAAgAAAB0OtJAOkY2xRg51cmZ5ex2aWyFiIT27sb6FFGKwQFPOqz980HpK7BZhzyLsE9trikZSq88h3fdmLtTRtVobR5Cq31lhoYLE64b2rLmiVXy6/50U9LYxGk6kTTnQWGWn5sikybNoeHbPjzXXZRYGq7+lF5nM8rDA7ni4UL0ZCpkSkr62fhiBMDjSe3dqJIwdX7jlYEfb3AWRZX61az3zfygdJv2qKNMIbEX7R4Vd/5uQA93xhPXz+s6zG7iCSjaOgcO2z4m4WEK/yjDln3inqNjltLSYASs0wZmXov51sLUvsAX/ho33wVlV0X98Z0dzBTx9M0/CzLzvyTJmMwrLmaEDe3jz8K0jEqvaLPazi3r1Bc9ERhioQcRrYACFbtUXaO4YhbPphgZp/4Bag7KzC0eaGd9sJIjG1T9aZW9nrj5y69hrQqzrqQjJJX1d97UilF5mkc78VrkKHfcbPlFap7bqrll6CNexD8rfxgI/eAXj4j8BfLedhdDi8pQw7iN6TvOL40ix4b5olPWEaNzHSVrCy9ddMzjfQfUNHDAwhrFtLv09EHJ0jVNPj6PBN4CNEs/X5X2IjtukiGOkDmhrt8mw+b/fJ96/nQ962UkM68jZMxNHYmjSq7FDdayWekO4fmQs8mbVWL12+6AFkPcG+A0hrzsU/0Li72nkWQVAXn8SQasTok8/8TFRNfA+5TueiS0tUd/hyT4wzrTZAre/CegsFQw3gbpqNhSrRAkdg+VHRpEh/LVjDroU5ajmH4If+d9ELNr4TW9XlsBM1Pvm7Ro4l4bV3J6K+RCFI5Vs3uJqhxMWrKd4Mq+wFZZmi6gapLUwmfItfTSLO41Xzt0xYg5RZdPDvBprQ7B9wX18oyDkEWCf9aWOFskXeRtBkA8OsufxwyngvFFGE+h+s8JubUuCixirP/nAH5o8mfP1I0fhAh/W9JzpLZCptBVGFy4XsrcxQLkEA88oeqMiU0DEwjf7rVDPCJOyc8zUfd1YmA9vS1iDWCXPmEr+BvfH9tM2hvqFpDaR0EGkIIBzKxd+e5dilPv
+    properties :
+     x : 7
+     y : 69
+     width : 687
+     height : 394
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+  -
+    name : BTN_DISABLE_SURVEILLANCE
+    identifier : 0x21222d7d14ecbb5b
+    internal_properties : CAAAAAgAAAD1gdu2ceRRg2lthI0smTgPjIbm89NInaEHcUDzCU5bJnvI91QPwBoIR3I1Yv1huzc582qJMQHpxC1USm04Nm1dy0jrZ5OToujooHYAM6CsLkThE0Ckzddl/7/ddZU90MB+GGwmR9wgIndRqHN+kNqtRG8otjojgaz+8l/yNB3HC8f4Xn/wbHzyYtcoqplTtkdr0q+xcPdb4XRM7t3MT3Gf4NZNQOeovc4LLBpcOkeJtKL2/PgxH1beNkhNvJYN2HE22q8FDuyLpPIXf/7LknWYhtMnjDL/WvpWFoGAI12i1+kQIfEXsP8UzPGWPf/actq7adnBstAUN2iKGdMZ85DZfBbLdol7b2naXmtLY/RwvlWlYK0T6BuS8zLpEQvnPmtyASTcqJ8JaJ2QqFtVf23eHyXLiZakK0SCqxcVYuQ3/hdpz9y9zwSO/hbTAgSdVFbT6rpNtbkZIlFDAmpjgMeaBPbknFfJwrZm6u5i97X3tngUvxTtei6g/3u+7IerOKjzyZ6ZgHe5R3bzJ2QcyeqSsD27/yKJOx3flNTr5Nc74aJJIy12pMPbY+I4I8+ThB0Ux5p5mQm22QL5V6+erNmdvy3W4HMlJSEm9CQs0b+88d8EVt7m0FhuMxFYtWwYKQW1vm6HSms0fx8gUurJQ3v+N01EI2yPRiijRI+iOhdXqZIpdch4v6WVrFd7mh+0gvsms4990soI/iKe46DeWX7HSWBLOVyPUA3XU5xh+bd9c8Vo0AQWz4+gPFM6gIq8iQ72UNVd/f2FCBciNbcAvWXRmPYcUUKbO0X0TwODX1xoX9qyT/xTw6NzT+mS5VKiZD8/0m4=
+    properties :
+     x : 634
+     y : 6
+     width : 60
+     height : 57
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Stops the monitoring
+         fTrackStopAll()
+         
+         BTN_DISABLE_SURVEILLANCE..State = Grayed
+         BTN_ENABLE_SURVEILLANCE..State = Active
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_ENABLE_SURVEILLANCE
+    identifier : 0x21222d7d14edbb5b
+    internal_properties : CAAAAAgAAACc2/FdSaFX1hflqRzvM8q8x5E0NQXhw9dKFT7Q0T4HIxBzGse9nDlseFpWf69QWZi3JIkOy5dqVUA97U4icIHxxybpXBzIhHIRo6Hw9CM1qHmylw3aOdW8ZMq/ZcIazYAi0GJaLKhKouhhk0BDuV3s1cf8S8JSo4BQCohnDa9pwumOSrGoYu3OfT/PUJnZB/QbgL9Cgc2A16G7e1946BG5zVAIRJZSsJVlR1pGgVY9uxHtZ2HFBOMGQBISUV4J3ftWNqdBFvvqeh+5WgTUMNr8sdm9kZZfo/a6eJ98FE+A/Aed/LxuUNTYkyQlh3ZMALIu7EMzvS98bqM2apIKZbe+HNJTSHn50PdzENSQMHrfxLkwHld8uN4DzkOwDROdUfPSUCeypf/3bUYBjM2WERBYTI408rvIsDhkbDYJGicUDSagfjr3su8bZU0sanRBchC6o5WMlJ87uAkJzDkfrNNW8C6+CjddnvBVMysW9xglZ2X8IlO999Zy2QvL1HDwmA7XBeG5Do+ZEVwyWGc1qUbMtfkSM38CkoJfoI7tpi4sQFqwJ67t7Mi+pU1ONHNaXY1P9yCDg7tvDkm7dBTWnU9QqRBUYIssF+NQhgNkl+WZ3WVit4JPKhaPhceY+WC10R6cc/699Mu8TWAvNshPo7uRjW6ENE0WtyoFUfw/l7oaLvNauhPjOiOFmUC5gFuYlo61PCruY329tXmt8nHnqr+LrdgVdBP+8UGKOz25jiDyTvUSrK9K+K+MQDXksuQnP7ReylQE6znmhX7mZUbNL94Atz2hYoxcQd964zqSGByUi6ZRm0HULI2ybV8+noOgHdx1i5c=
+    properties :
+     x : 564
+     y : 6
+     width : 64
+     height : 57
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADtx/gzq9mYglVWE/wwG27/NWe2AH5rb1f1VC9SXEHpqfdCMIR1bn0d9rWzukDukwRlaFi45h6fczf+/d5X6aX9dEhhjOjB0bOZG88FNXNPY+K4oaDhBJsKSVk6dZ7KeqlIMASSPfJk2J4w0Yo=
+        code : |1-
+         // Checks the directory existence
+         IF fDirectoryExist(SC_DirectoryPicker) = False THEN
+         	Error (“The specified directory does not exist.”) 
+         	RETURN 
+         END
+         
+         IF CBOX_SUBDIRECTORY = True THEN
+         	// Include the sub-directories
+         	fTrackDirectory(EDT_DIR,_DirectoryModifications,ftCreateFile + ftDeleteFile + ftModifyFile + ftRename)
+         	
+         ELSE
+         	// Don't include the sub-directories..
+         	fTrackDirectory(EDT_DIR,_DirectoryModifications,ftCreateFile + ftDeleteFile + ftModifyFile + ftRename,False)
+         END
+         
+         // Enables the "stop" button, disables the "start" button
+         BTN_DISABLE_SURVEILLANCE..State = Active
+         BTN_ENABLE_SURVEILLANCE..State = Grayed
+         
+         Info(“You have the ability to perform operations in the directory that you want to watch.”)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : SC_DirectoryPicker
+    identifier : 0x21222d7d14eebb5b
+    internal_properties : CAAAAAgAAACIcesTB4QB7A2KxUwxp4t5lK78+IrjmPMd5wxZASHXbdyyGQKQ/n+zsiCKt4jBjkr9RXhOxYh8ZQs0kULGFR9q3vkU3O5HP1jrQDvPwqa9/LL0uItMFuxzZ7Kw+tEMQX/dnh5eGtqN8ieZ57H5YbnwiUyKiEVer375vZg25HygRKEwWHLmwVKS7rcMqwJx5ORQLkkBfo1PGg94z+MlVSMz14DRx/mNCYsIzcRS4MxJqQuTeySMenaHx12G1c8jd3zsJ1VcKNFFyJVumcgTes/PvJYYJxGWmoTN1wkWfChuZlLHGn7CCtLcHFR3yeTZmJiPCkdt0sXQ4NPdWwhCraFv+tpDj0yaZlvBUfn39PlkXaCmcgpSSzGIG/JIwM0+ePCkbgVzz+vbrZ7m5pM9othQ2ZYtP1brG1jZ+Qg6/+YboHvF3JGUIIAMYYkUUjY3dvIcbUdhk6UN+Os6b1K8bA0xPLnmuY+8Uu8T63fFgW0fiJZv8+lUFW+QGslnrE7sewjEq3s7Bf9FRIOYj1xMMAB2eY/YLVn3bIVLT2PahI/Xh0BHhYt3LemuQDX+GenL18Vm9IDFVIrSXQJdgTIlW270IjeaQgLxUMBM4yQrZeEXno3cD5m1tVBwlnlZJonb6ppwa3Z16y7P+4Z7ZwPhB1X3COJfQsgXWChhlTYmWpNler37EYlxDDhBASJW/nwdya35HZWSWaf2hZ0KRBOLgjxAPXAM2DzGIqxU8Ecw19d906aidzbuRgrgJH2ByYHYV+2qdZm6MH9tVptEJV6YKg6RFs3q58S11BHqnveSoDkxSRrVBirC3r6VVWqMgDV+UKdHOfdIKT6QleS5Ac47LqSm9NgjejOxn62q82IQoAnUdSjjkzOIAIYb9nMPKEoYZNuSVKP5sLEDA5C+6+yg2daGCSV69t5e4R5mgAZO5dYnEEEzyZQXTqWO14FBnrUl82zSPgmNSSM3z5uzf+151vNOg8yHyxJk+BG/msv0wMsBHJvpw1b+gwtBh8AbVQw7ixob3tOh6OCjMmPpWRCBZoc0too6A/AzX62HgAwuc588GMsir6j6Ct2rVBvlnKEjnV9HoIVy
+    properties :
+     x : 6
+     y : 21
+     width : 552
+     height : 25
+    controls :
+     -
+       name : EDT_DIR
+       identifier : 0x21222d7d14efbb5b
+       internal_properties : CAAAAAgAAACm1AYbsPRg162Mo13teuUe5pGGT/ppl1tMp5ZspArMdmG8SJr6CjXoQ/mJWXck+qEJ9sJ0uODVIDZvUr7RI4dpJnB6JTDkS6I/DTDNXHIskkmyOmb6ci1G9Ek5cbtEQOVpystVho/tmu6HXBVKn76Iyisbb5asMVi5TSXCFFBX7ft/F0h792wRs/WgGI64lH3NLQJRLAWVyomX26xYUkD5u8RjTRntEHHXck5EB9uxJHHc2sZXmPWReutWfp3PH8j04S2dUrgXIv0+1MuTlTbw39pG5fr8hcUTR5G7Yl3kMx0z7izUVoFOa21XUMguZq2rrsuUI+VazSbEpSmHbgf3A7SAxAjdHWTJRvetta844YrHkInj3+6gyKeVx98St7n3o/Dbuj3YGLEmJe8Bh+q6grxmF4hz86CE2j6aWjsBfIl4MjRSaLNFEsWeS/+c1fOz9RILiU2Csl5sGnhjm/215/6Lx9nqM6D0rAE5jVd5u3tLFs+gQIL2q84+wavcaU9UTf3+7yghOnA6s55dPiTXZb0vRbsIbNS/pcLAvBZ1xCWSiDgBb2M+pXeNVZpOfVWrNKJwLs1dgMfBKNA8kVTymE58thfCHgVXfMqdcoFVmNqa4XdEXUB1PFcXhe6bbi5dz6oLQLiiGFZi1C83puwxcIjv1xV15ijEacKPjnGHHJVc2DeerYI1cjpJWB5KZhsXeUDOsPnML7XGIAeK+FX8dz/eLu8jThHZ1vFB7rxX7zkyzQS/EZhMrSWOsaVlgyPh513rYoygtt8YCFVaw7gp8MCX4n1md+TjFg8cJ47OhqvjH5JJQ0Ex3fUcyUAgQASEHStY71Wskpa6QTiGa3ouhDZMFCL8ASuhzB50XClKf8lKPMgNNYgdvk1io7E9kl9ziLXedQTa2f+Ipq946BzWcQdBkw3yANqtrblne9ofoNrV4TBBLcMGPFq5AFS93e584Qkvn+EOpMZ0kE8W0O6GmJ+wFbeib/lAncmEzsuwgjGzwzxecVhvMF4VKCuE3ixc5abT1m7trh9OrxRH66lJZXvXMPkPk+xhYTrDCJ30ksLYELFDvVVP40FvCofP6BV7/YaftsP5MaE5mzxhyoAI8iQH6Ic4kr8/4Zayj627QLKUevmmIg9uJA2v92gpmd9QPpHrK03ZInIvOab9N2mN0EjAgjTdfLaG1aXNbCEhREsE72pllD3vHsvBGwttqk1JjCyR4ZKEELNyhCixDhZ1m4/i8sN1POlZy/lwQA3OxcFWFfaG7U8pLJIjLxTRe1g9km+NvHUylk/YQR/BF8M7Uwrx0cVO5/ehRYMZzvQxhQSppQ==
+       properties :
+        y : 2
+        width : 525
+        height : 22
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            
+           type : 15
+         -
+           code : |1-
+            MyParent  = EDT_DIR
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           code : |1-
+            
+           type : 17
+     -
+       name : BTN_SEL
+       identifier : 0x21222d7d14f0bb5b
+       internal_properties : CAAAAAgAAADnnOhBN/zdRQWIdWAPtU8VTEVxMy69lKMZwgOb0AdKt6AGMbEJCUoz+63x3g/X+VXQoNWVJmUKjysGdp+SY/nPfjAcbk3lnhllI4t9rKPmIldsw2sUqhvwZc+ju6QMMv8YfeWd52ptkNyUE3PWrHqPheEX77A0nLjJ3lUwojd/Qi9MZRrwqr3+kD31wCcrTj9zrnS2nq/Ko1gt9rpTPQpxANDB2/D2azlXrjjwJlHNcOHQDwy8MT/Hg/gh1IetMd86lj2Z2uyQ+893thuXVsO0iD48SEnvndtk5ej75f1FllwCGnP9LNLpbmX5eNtSMi3LRdYt7zMM3ZyE1JRHg/u4uKCBdApqiGTtey653pZ/g6EJUeoefJXh8aqtyzUJA+zLeMjuU5hhD/p4E1iwBiY6RuoOS3K6ZTwKjwhULQOWbEJ6wD/nBCxWaMfGiimGB2v7EndkZ3Idkjmu0CQDbNe8giOFt3aqLB1psKoJdLFJO6TVReP+Xo9YFP+docBAEOwHNITN+qoADx0gfoKsno530DT8fq6SijXQv0M/vT1/oEF5+hi1WisGyj423gSOlOtRrs5KL/zRYNK5VyuGD62NLCsXIRRd3DNEg7IVZXezb6H1T8XZD7NdRe/quQlptiYWDWPmtSYEdbNj8fqfCkfoBQveCz/c9MioenZdE5+rbwJ3iWpVW+9ONuDwhO0Wj8aQNF7XOMNRRsklNjnvj219MmWS5CMxTlGVObkKGzv2wt6kYvxsRIybY36imMPEYGdetgCAYNojEIvWsJILIiRWZRW5FwTM5P1fd6dVilSZuUbn/SawglAjy+eWgKs1Td021eR69SFFB6BclHkpLl3aciFC5z1Ijk8=
+       properties :
+        x : 531
+        y : 4
+        width : 21
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            sSel is string
+            sSel = fSelectDir(EDT_DIR, <§$0002§>, <§$0003§>)
+            IF sSel<>“” THEN
+            	EDT_DIR = sSel
+            	MyParent  = EDT_DIR
+            END
+           type : 18
+         -
+           type : 161
+           enabled : false
+    type : 40
+    code_elements :
+     type_code : 34
+     p_codes :
+      -
+        code : |1-
+         
+         RESULT EDT_DIR
+        type : 42
+  -
+    name : CBOX_SUBDIRECTORY
+    identifier : 0x21222d7d14f1bb5b
+    internal_properties : CAAAAAgAAADfL6WQliGCcWdgqTmAG3DBq8NCokjBt7YLplqxq5uXI6ehzXBwUB7WnRI99AYfhM25aBJD37DNGVHSLZclVtR9SsWJN0ltoRCdtyBN0bXdVe4ePEyJp4vYkdHWr3K393IezqjMr6nzlnHqpT3v7xKPwJjoLaz+vvmISX19L90o3D+GQkm+jFTQbk+D8+BIpGVH9Oafo+zWzRKVUa5fL4UcYWgZISuoGTtBSag/vLc3wnX4p53/nzuaS2aHm7SeVWJQQGtxqDRYKM1oHPqFCgYPqNunsLSzq3Nb5PsRF0sOSrjzQsljOzlrmV3/kg3LK0xU1WY1PZluzxD29pVbuC1xqXV6tJBpAt8tmAho3JukkkJZRlfBIjL334PkN5RE1MJVdKrvLMFdARVxZOlqho6npe0JJnsbPiqjku4iVCGV24AZddQ/dcUhdnWL6k9QRRKBRhzo3QMeDCZZQ+2kH1BH+p3/Ju+AooETOtiWjAUZIz0IP5EHbgBx3VP5aFu4D00ivqgJ7VazpGne2pR+zuyem5Jpnd5+N+iZlUOnDK1nY2Go9EbPi3BB+MmVLocSyGAFsyecMI7XuPLnOa7p/eeigbl0bViUxD2XScmn3x1S6DD6YjrKQ7hrsmrDn+FUqLaPrLeQUx+/ibZ4raYAe+Y52B8O+ne3OSPbXbkJOKEYsbtTFph9MXo5ld5mk5DnF0vJZqQQEMLxFnUnBirhRa6hUp0LMqFHxS+PnMDDXL+kPmIdEHkUvJ3CbsTQ7AwxMHWiyABsDoB344WlVitLbIXbmy7McJHdMk1nB/ziu0Pe6XvvjWL1XpTPPDzuK67UEJ+m6syl3HMKOIf7Zioudd0WyKEfH/58QWldb//BfJzqna5oCtJHMrywzlpfgW8NCXoWo0qbHs3IhJDjgC/oMWWYl4S2PBb3esCpCQICmFzHUaKzbqUBc+n4gSEZ7Uc7VFYoXt9buTyJR5G/LZ8BHOcBFxtl3clHUzMfBnjfhldWbWSO7rjYi4Wc/fuITzt/Etm+kDcpE6OPsiiFcvzxbWRu+rXdTQezk87N3+BzMXwJeHQKZ3D6R1yVfuSDZ8n7t8rE+02L1VPrfcJeqAEZci+Fde8WzlqFgSYk9j4=
+    properties :
+     x : 70
+     y : 43
+     width : 234
+     height : 23
+    options :
+     -
+       internal_properties : CAAAAAgAAAB0Tp5jFJKCo7EM96HppVhrmwRJ6siNTHDa38u+CZheheTosQNW7UZsWnJjuK/7B38tvzHymqvLBL8SLTFTSEjJs+p2LU1F/6sQzpR2ZJtggPZyEEj5/UwX0Vzrf9uMUwdKLjJ+62c+aCaRdXR3bbUj3OliYVsMkftoUPcwh3PkY/jGvDhdhTVGz26QADVmnmRFeaWAgIwY6Hbe
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x271a01d51385723b
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADjm5PK/Y5+TytCntwKS5/6PH700D0m0ViepMG7svjJHicb5zDy+ycQAkXEDQ6sdVuUQWAmKuwq/ar7m8GCwdZI7LTNKdUq9G4bBkFM/9jbo1cnYlCl0g/m0o+x929W
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADTJcMupREKU8mhvh3uDueN44cbLsj4t6C8q7+GBcFQUoV8l8lxDzGM2WOOPyiBKwGXUO7Nw+aUL5GsYSbIePUV/CI3ThQ1GbDEhPDiVBiEpEt9c3YZzUr4be6PFA==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACRY4darUMfpv/8H/o8B3g5e80MPChtk5MHKjuYKKXvd3E0luDb+PnNmDMzNNDeJU4fKooAEBT2GOqRNIkETDoYcfWI35nIzLyQUs4YGh40vq+d/Cdut9r7fBxpABv9s1gJeWslhuBiDqm8bTY=
+     code : |1-
+      CONSTANT
+      	IMG_DEL = “Del.png”
+      	IMG_ADD = “add.png”
+      	IMG_MODIF = “modif.png”
+      	IMG_RENAME = “rename.png”
+      END
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : AddLog
+     procedure_id : 1234599262751538011
+     type_code : 14
+     code : |1-
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      //AddLog (<sMessage>)
+      //
+      // Parameters:
+      // 	sMessage: <specify the role of sMessage>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      Procedure AddLog(sMessage)
+      
+      ExecuteMainThread((sLocalMessage) => {ListAdd(LIST_FILES,sLocalMessage)},sMessage)
+     type : 458752
+   -
+     name : _DirectoryModifications
+     internal_properties : CAAAAAgAAADk1dQIZps3V5AzhY0LcwHByKefUDfyjzs1y1F/nTT18nTXdGIIRzESoBUVghcbPz4GgLry6ezFtojQiZ10/QRkAIAVU027efDWO4FE33xwBPhJDyNqAfB0zL0zvDiJv84kCs5nGxQDrZ0zPbV3vvle9ef4zvtsftlcl1w2VzA=
+     procedure_id : 1234599262751603547
+     type_code : 14
+     code : |1-
+      // Summary: <specify the action of the procedure>
+      // Syntaxe :
+      //_DirectoryModifications (<sDirectoryName> est chaîne, <sFileName> est chaîne, <nTypeOfChange> est entier, <sOldName>)
+      //
+      // Paramètres :
+      //	sDirectoryName (chaîne ANSI) : <specify the role of sElement>
+      //	sFileName (chaîne ANSI) : <specify the role of sParameter>
+      //	nTypeOfChange (entier) : <specify the role of nTypeOfChange>
+      //	sOldName : <specify the role of sParameter>
+      // Example:
+      // Indicate an example.
+      //
+      // Return value:
+      Procedure _DirectoryModifications(sDirectoryName is string, sFileName is string, nTypeOfChange is int, sOldName)
+      
+      sMessage is string
+      sElement is string = sDirectoryName + [“\”] + sFileName
+      
+      SWITCH nTypeOfChange
+      	CASE ftDeleteFile
+      		sMessage = gImage(IMG_DEL) + “ ” + StringBuild(“The <%1> element (file or directory) was deleted”, sElement)
+      		
+      	CASE ftCreateFile		
+      		// Check the existence of the file, if it does not exist, it's a directory
+      		IF fFileExist(sElement) = False THEN
+      			// It's a directory
+      			sMessage = gImage(IMG_ADD) + “ ” + StringBuild(“The <%1> directory was added”, sElement)	
+      		ELSE
+      			sMessage = gImage(IMG_ADD) + “ ” + StringBuild(“The <%1> file was added”, sElement)
+      		END
+      	CASE ftRename
+      		// Check the existence of the file, if it does not exist, it's a directory
+      		IF fFileExist(sElement) = False THEN
+      			// It's a directory
+      			sMessage = gImage(IMG_RENAME) + “ ” + StringBuild(“The <%1> directory was renamed to <%2>”, sOldName, sElement)
+      		ELSE
+      			
+      			sMessage = gImage(IMG_RENAME) + “ ” + StringBuild(“The <%1> file was renamed to <%2>”, sOldName, sElement)
+      		END
+      		
+      	CASE ftModifyFile
+      		// Check the existence of the file, if it does not exist, it's a directory
+      		IF fFileExist(sElement) = False THEN
+      			// It's a directory
+      			sMessage = gImage(IMG_MODIF) + “ ” + StringBuild(“The <%1> directory was modified”, sElement)	
+      		ELSE
+      			sMessage = gImage(IMG_MODIF) + “ ” + StringBuild(“The <%1> file was modified”, sElement)
+      		END
+      		
+      	OTHER CASE
+      		dbgAssert(False,“Unknown notification”)
+      		RETURN
+      END
+      
+      
+      AddLog(sMessage)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADvhQquNMFkreyaHeQWfRtMY/bqQFln3DODr641Kn2D71K9hc+tzxLycF2J7B2f/oBx48HDMPM7HqQmxZuifbN0xB+gkTjHte2H
+  original_name : modele1
+resources :
+ string_res :
+  identifier : 0x171a01c6001237a3
+  internal_properties : CAAAAAgAAADR6qHy47MgcvdvzsR3tU4oraRsm5YBHvidumyGbmAbtzi3vIs=
+  strings :
+   -
+     text :
+      en-GB : Select a file...
+     index : 0
+   -
+     text :
+      en-GB : All files (*.*)
+     index : 1
+   -
+     text :
+      en-GB : Select a directory...
+     index : 2
+   -
+     text :
+      en-GB : Select a directory
+     index : 3
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_WIN_MAIN.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
